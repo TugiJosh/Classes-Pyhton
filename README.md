@@ -1,2 +1,2 @@
-# Classes-Pyhton
+# Classes-Python
 Creating python code for Animal, Dog and Puppy classes...
